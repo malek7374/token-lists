@@ -11,7 +11,7 @@
     "logoURI": "https://github.com/malek7374/piogoldcoin/blob/main/logo.png",
     "links": [
         {"name": "twitter", "url": "https://x.com/piogoldcoin"},
-        {"name": "telegram", "url": "https://t.me/piogoldcoin"}
+        {"name": "telegram", "url": "https://t.me/piogoldcoin_PGC"}
     ],
     "tags": ["defi", "blockchain", "utility", "charity"]
 }
